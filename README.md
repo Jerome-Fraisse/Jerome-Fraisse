@@ -1,8 +1,9 @@
 # Jerome 
 Passionné par l'informatique depuis plus de 40 ans, j'ai commencé mon aventure avec mon premier ordinateur, le légendaire ZX81 (1 ou 2 ko (64 ko max., 56 ko utilisable). Au fil des décennies, ma curiosité et mon intérêt pour les nouvelles technologies n'ont cessé de grandir. Aujourd'hui, je suis un fervent utilisateur de Bootstrap, que j'apprécie pour sa simplicité et son efficacité dans la création de sites web modernes.
 
-Mais ce qui m'anime avant tout, c'est le scraping, une activité dans laquelle je me spécialise. Grâce à Python, j'automatise et simplifie des tâches complexes en extrayant des données précieuses pour divers projets. Si vous cherchez quelqu'un qui allie expérience et innovation, je suis la personne qu'il vous faut !
-# Technologie 
+Mais ce qui m'anime avant tout, c'est le scraping, une activité dans laquelle je me spécialise. Grâce à Python, j'automatise et simplifie des tâches complexes en extrayant des données précieuses pour divers projets. Si vous cherchez quelqu'un qui allie expérience et innovation, je suis la personne qu'il vous faut ! 
+Actuellement avec l'emergence de l'intelligence artificielle je travail sur des applications de redaction automatique couple avec openai
+## Technologie 
 -Python
 -html
 -bootstrap
